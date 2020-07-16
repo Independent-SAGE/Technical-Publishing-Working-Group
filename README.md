@@ -6,7 +6,7 @@ Here you can see a pilot example of converting an existing [PDF report](https://
 
 ## Work group volunteers!
 
-The working group is looking for volunteers and resources to help in the rapid publishing, dissemination and innovations for public engagement.
+The working group is looking for volunteers and resources to help in the rapid publishing, dissemination and innovations for public engagement of indie_SAGE publications.
 
 See the GitHub ['Issues'](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/issues) for current tasks and join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat if you have a question or comment.
 
