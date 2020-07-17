@@ -33,6 +33,7 @@ Currently we're looking for people with skills in the following (July 2020):
   - Publishing pipeline specialists
   - SEO
   - Technical writers and editors
+  - UX/UI - user journeys
   - Wordpress design, admin, staging
   - XML format experts: MECA, BITS, Xproc, XSLT, etc
 
