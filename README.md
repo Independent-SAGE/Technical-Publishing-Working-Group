@@ -38,6 +38,14 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 
 ## Software Stack
 
+  ### Only Office
+  
+  https://github.com/ONLYOFFICE/CommunityServer
+
+  ### CodiMD
+  
+  https://github.com/codimd
+
   ### Fidus Writer
 
   https://github.com/fiduswriter/fiduswriter
