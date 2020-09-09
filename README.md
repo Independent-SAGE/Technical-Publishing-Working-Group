@@ -6,7 +6,7 @@ A volunteer research working group to provide technical publishing assistance fo
 
 Here you can see a pilot example of converting an existing [PDF report](https://www.independentsage.org/wp-content/uploads/2020/05/Independent-Sage-Brief-Report-on-Schools.pdf) into a multi-format publication and applying basics DOI, ISBN identifiers and metadata - web, screen PDF, ebook, print-on-demand, and as HTML source. See results: [Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/#/)
 
-<img src="https://independent-sage.github.io/Should-Schools-Reopen/report/cover.png" align="right" height="40%" width="40%" alt="Should Schools Reopen?">
+<a href="https://independent-sage.github.io/Should-Schools-Reopen/#/"><img src="https://independent-sage.github.io/Should-Schools-Reopen/report/cover.png" alt="Should Schools Reopen?" align="right" height="40%" width="40%" ></a>
 
 ## Work group volunteers!
 
