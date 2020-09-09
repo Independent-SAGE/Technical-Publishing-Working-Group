@@ -16,7 +16,7 @@ The working group is looking for volunteers and resources to help in the rapid p
 
 See the GitHub ['Tasks'](https://github.com/orgs/Independent-SAGE/projects/2) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation. 
 
-If your interested in volunteering, or have a question or comment join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat, or you can DM Simon Worthington on Twitter [@mrchristian99](https://twitter.com/mrchristian99).
+If your interested in volunteering, or have a question or comment join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat, or you can DM Simon Worthington on Twitter [@mrchristian99](https://twitter.com/mrchristian99) or email publications@independentsage.org.
 
 Currently we're looking for people with skills in the following (>Sept 2020):
 
