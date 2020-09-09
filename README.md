@@ -12,6 +12,8 @@ Here you can see a pilot example of converting an existing [PDF report](https://
 
 The working group is looking for volunteers and resources to help in the rapid publishing, dissemination and innovations for public engagement of indie_SAGE publications.
 
+> Share the volunteer blogpost - Sept 2020 ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw)
+
 See the GitHub ['Issues'](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/issues) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation and join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat if you have a question or comment.
 
 Currently we're looking for people with skills in the following (>Sept 2020):
@@ -39,6 +41,10 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 
   - Simon Worthington - iSTPWG team leader. Twitter [@mrchristian99](https://twitter.com/mrchristian99); Acting in an individual capacity as research lead of the Hybrid Publishing Consortium an independent research group for book liberation. https://consortium.io/
   - Raquel Perez de Eulate - Designer, CSS Typesetting. Interpunct Studios - Full Stack Graphic Design https://interpunct.dev/
+  
+## Blogposts 
+
+ - ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw) Sept 2020 
 
 ## Software Stack
 
