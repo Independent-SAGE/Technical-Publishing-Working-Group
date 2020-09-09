@@ -1,5 +1,7 @@
 # indie_SAGE Technical Publishing Working Group #iSTPWG
 
+— Innovating Rapid Publishing for COVID-19
+
 A volunteer research working group to provide technical publishing assistance for The Independent Scientific Advisory Group for Emergencies (SAGE) in the fight against COVID.
 
 Here you can see a pilot example of converting an existing [PDF report](https://www.independentsage.org/wp-content/uploads/2020/05/Independent-Sage-Brief-Report-on-Schools.pdf) into a multi-format publication and applying basics DOI, ISBN identifiers and metadata - web, screen PDF, ebook, print-on-demand, and as HTML source. See results: [Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/#/)
@@ -8,7 +10,7 @@ Here you can see a pilot example of converting an existing [PDF report](https://
 
 The working group is looking for volunteers and resources to help in the rapid publishing, dissemination and innovations for public engagement of indie_SAGE publications.
 
-See the GitHub ['Issues'](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/issues) for current tasks and join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat if you have a question or comment.
+See the GitHub ['Issues'](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/issues) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation and join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat if you have a question or comment.
 
 Currently we're looking for people with skills in the following (>Sept 2020):
 
