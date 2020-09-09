@@ -14,7 +14,9 @@ The working group is looking for volunteers and resources to help in the rapid p
 
 > Share the volunteer blogpost - Sept 2020 ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw)
 
-See the GitHub ['Issues'](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/issues) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation and join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat if you have a question or comment.
+See the GitHub ['Tasks'](https://github.com/orgs/Independent-SAGE/projects/2) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation. 
+
+If your interested in volunteering, or have a question or comment join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat, or you can DM Simon Worthington on Twitter [@mrchristian99](https://twitter.com/mrchristian99).
 
 Currently we're looking for people with skills in the following (>Sept 2020):
 
@@ -105,3 +107,7 @@ Currently we're looking for people with skills in the following (>Sept 2020):
   https://github.com/gohugoio/hugo
 
   Apache License 2.0
+  
+## About us: 'indie_SAGE Technical Publishing Working Group #iSTPWG'
+
+A group of Open Science volunteer organised as a working group to assist indie_SAGE in rapid --- multi-format, multi-channel publishing. iSTPWG carries out technical and publishing tasks and is not involved in the authoring of the reports scientific work. If you have an enquiry about the reports scientific contents please contact [Independent SAGE](https://www.independentsage.org/contact-the-independent-sage/).
