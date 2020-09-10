@@ -54,9 +54,9 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 
 ![Report back catalogue workflow](https://raw.githubusercontent.com/Independent-SAGE/Technical-Publishing-Working-Group/master/images/catalogue.jpg)
 
-### Rapid publishing workflow
+### Rapid publishing pipeline
 
-
+![Rapid publishing pipeline](https://raw.githubusercontent.com/Independent-SAGE/Technical-Publishing-Working-Group/master/images/rapid-publishing.jpg)
 
 ## Software Stack
 
