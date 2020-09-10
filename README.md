@@ -47,6 +47,16 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 ## Blogposts 
 
  - ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw) Sept 2020 
+ 
+## Workflows (base)
+
+### Report back catalogue workflow
+
+![Report back catalogue workflow](https://raw.githubusercontent.com/Independent-SAGE/Technical-Publishing-Working-Group/master/images/catalogue.jpg)
+
+### Rapid publishing workflow
+
+
 
 ## Software Stack
 
