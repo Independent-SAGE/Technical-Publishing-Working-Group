@@ -2,7 +2,7 @@
 
 — Innovating Rapid Publishing for COVID-19
 
-A volunteer research working group to provide technical publishing assistance for The Independent Scientific Advisory Group for Emergencies (SAGE) in the fight against COVID.
+A volunteer research working group to provide technical publishing assistance for The Independent Scientific Advisory Group for Emergencies (indie_SAGE) in the fight against COVID.
 
 Here you can see a pilot example of converting an existing [PDF report](https://www.independentsage.org/wp-content/uploads/2020/05/Independent-Sage-Brief-Report-on-Schools.pdf) into a multi-format publication and applying basics DOI, ISBN identifiers and metadata - web, screen PDF, ebook, print-on-demand, and as HTML source. See results: [Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/#/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3935529.svg)](https://doi.org/10.5281/zenodo.3935529)
 
@@ -14,7 +14,7 @@ The working group is looking for volunteers and resources to help in the rapid p
 
 > Share the volunteer blogpost - Sept 2020 ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw)
 
-See the GitHub ['Tasks'](https://github.com/orgs/Independent-SAGE/projects/2) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation. 
+See the GitHub ['Project'](https://github.com/orgs/Independent-SAGE/projects/2) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation. 
 
 If your interested in volunteering, or have a question or comment join us on [Gitter](https://gitter.im/indie_SAGE/TPWG) chat, or you can DM Simon Worthington on Twitter [@mrchristian99](https://twitter.com/mrchristian99) or email publications@independentsage.org.
 
@@ -28,7 +28,7 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 * open project GitHub/Lab setup and wrangling; 
 * graphic design & web design - CSS; 
 * Wordpress UX/UI, and;
-* Citizen Science people.
+* Citizen Science researchers.
 
 ## Roadmap
 
