@@ -2,7 +2,7 @@
 
 — Innovating Rapid Publishing for COVID-19
 
-> Open Video Call - tonight 17:00 UTC 17 Sept | There will be an open video call on Jitsi at 17 Sept. 17:00 UTC if you want to find out more about the working group.
+> Open Video Call - tonight 17:00 UTC 17 Sept | There will be an open video call on Jitsi https://meet.jit.si/iSTPWG at 17 Sept. 17:00 UTC if you want to find out more about the working group.
 
 A volunteer research working group to provide technical publishing assistance for The Independent Scientific Advisory Group for Emergencies (indie_SAGE) in the fight against COVID.
 
