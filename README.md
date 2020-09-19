@@ -2,8 +2,6 @@
 
 — Innovating Rapid Publishing for COVID-19
 
-> Open Video Call - tonight 17:00 UTC 17 Sept | There will be an open video call on Jitsi https://meet.jit.si/iSTPWG at 17 Sept. 17:00 UTC if you want to find out more about the working group.
-
 A volunteer research working group to provide technical publishing assistance for The Independent Scientific Advisory Group for Emergencies (indie_SAGE) in the fight against COVID.
 
 Here you can see a pilot example of converting an existing [PDF report](https://www.independentsage.org/wp-content/uploads/2020/05/Independent-Sage-Brief-Report-on-Schools.pdf) into a multi-format publication and applying basics DOI, ISBN identifiers and metadata - web, screen PDF, ebook, print-on-demand, and as HTML source. See results: [Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/#/)  
@@ -49,6 +47,10 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 ## Blogposts 
 
  - ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw) Sept 2020 
+ 
+## Meetings
+
+  - Open Video Call - 17:00 UTC 17 Sept | There will be an open video call on Jitsi https://meet.jit.si/iSTPWG at 17 Sept. 17:00 UTC if you want to find out more about the working group. [Wiki notes](/wiki)
  
 ## Workflows (base)
 
