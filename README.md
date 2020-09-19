@@ -50,7 +50,7 @@ Currently we're looking for people with skills in the following (>Sept 2020):
  
 ## Meetings
 
-  - Open Video Call - 17:00 UTC 17 Sept | There will be an open video call on Jitsi https://meet.jit.si/iSTPWG at 17 Sept. 17:00 UTC if you want to find out more about the working group. [Wiki notes](/wiki/17.9.2020)
+  - Open Video Call - 17:00 UTC 17 Sept | There will be an open video call on Jitsi https://meet.jit.si/iSTPWG at 17 Sept. 17:00 UTC if you want to find out more about the working group. [Wiki notes](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki/17.9.2020)
  
 ## Workflows (base)
 
