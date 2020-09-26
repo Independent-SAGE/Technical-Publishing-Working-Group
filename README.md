@@ -40,6 +40,10 @@ Currently we're looking for people with skills in the following (>Sept 2020):
   4. Introduce 'computation publishing' and data science workflows. e.g., Juypter Notebooks
   5. Ensure high quality metadata workflows - Help! Really need a multidimensional metadata management systems
   6. Develop strategy for public engagement of indie_SAGE publications
+  
+## Report catalogue
+
+[View here](report-back-catalogue.md)
 
 ## Members
 
