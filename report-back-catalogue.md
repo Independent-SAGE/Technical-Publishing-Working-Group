@@ -1,5 +1,7 @@
 ## Report back catalogue
 
+> Get Involved With the Working Group! Join us on chat [#iSTPWG:matrix.org](https://matrix.to/#/!mAcobxVqDiVFbcVAUf:matrix.org?via=matrix.org) or DM Simon Worthington [@mrchristian99](https://twitter.com/mrchristian99)
+
 Source: Ethercalc Spreadsheet direct - https://ethercalc.net/!mAcobxVqDiVFbcVAUf:matrix.org_Report_Metdata
 
 Element chat area - (embedded Ethercalc Spreadsheet) #iSTPWG:matrix.org https://matrix.to/#/!mAcobxVqDiVFbcVAUf:matrix.org?via=matrix.org

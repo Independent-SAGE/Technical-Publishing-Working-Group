@@ -2,6 +2,8 @@
 
 — Innovating Rapid Publishing for COVID-19
 
+> Get Involved With the Working Group! Join us on chat [#iSTPWG:matrix.org](https://matrix.to/#/!mAcobxVqDiVFbcVAUf:matrix.org?via=matrix.org) or DM Simon Worthington [@mrchristian99](https://twitter.com/mrchristian99)
+
 A volunteer research working group to provide technical publishing assistance for The Independent Scientific Advisory Group for Emergencies (indie_SAGE) in the fight against COVID.
 
 Here you can see a pilot example of converting an existing [PDF report](https://www.independentsage.org/wp-content/uploads/2020/05/Independent-Sage-Brief-Report-on-Schools.pdf) into a multi-format publication and applying basics DOI, ISBN identifiers and metadata - web, screen PDF, ebook, print-on-demand, and as HTML source. See results: [Should Schools Reopen?](https://independent-sage.github.io/Should-Schools-Reopen/#/)  
@@ -38,6 +40,10 @@ Currently we're looking for people with skills in the following (>Sept 2020):
   4. Introduce 'computation publishing' and data science workflows. e.g., Juypter Notebooks
   5. Ensure high quality metadata workflows - Help! Really need a multidimensional metadata management systems
   6. Develop strategy for public engagement of indie_SAGE publications
+  
+## Report catalogue
+
+[View here](report-back-catalogue.md)
 
 ## Members
 
