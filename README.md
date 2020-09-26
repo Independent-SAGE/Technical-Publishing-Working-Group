@@ -14,19 +14,19 @@ The working group is looking for volunteers and resources to help in the rapid p
 
 > Share the volunteer blogpost - Sept 2020 ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw)
 
-See the GitHub ['Project'](https://github.com/orgs/Independent-SAGE/projects/2) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation. 
+See the GitHub ['Project'](https://github.com/orgs/Independent-SAGE/projects/2) for current tasks, a [Wiki](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki) for documentation.
 
-If you're interested in volunteering, or have a question or comment join us on chat using Element (Riot) - room [#iSTPWG:matrix.org](https://view.matrix.org/room/!mAcobxVqDiVFbcVAUf:matrix.org/) download the ([Element client](https://element.io/get-started)), or you can DM Simon Worthington on Twitter [@mrchristian99](https://twitter.com/mrchristian99) or email publications@independentsage.org.
+If you're interested in volunteering, or have a question or comment join us on chat using Element (Riot) - room [#iSTPWG:matrix.org](https://view.matrix.org/room/!mAcobxVqDiVFbcVAUf:matrix.org/) download the ([Element client](https://element.io/get-started)), or you can DM Simon Worthington on Twitter [@mrchristian99](https://twitter.com/mrchristian99) or email  [publications@independentsage.org](mailto:publications@independentsage.org).
 
 Currently we're looking for people with skills in the following (>Sept 2020):
 
-* librarians for metadata; 
-* editors for proofing production; 
-* technical IT - Markdown, Git, DevOps, XML, Jekyll/Hugo, Kubernetes and Terraform, etc.; 
-* publishing production managers; 
-* data scientists and Jupyter Notebooks; 
-* open project GitHub/Lab setup and wrangling; 
-* graphic design & web design - CSS; 
+* librarians for metadata;
+* editors for proofing production;
+* technical IT - Markdown, Git, DevOps, XML, Jekyll/Hugo, Kubernetes and Terraform, etc.;
+* publishing production managers;
+* data scientists and Jupyter Notebooks;
+* open project GitHub/Lab setup and wrangling;
+* graphic design & web design - CSS;
 * Wordpress UX/UI, and;
 * Citizen Science researchers.
 
@@ -43,15 +43,15 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 
   - Simon Worthington - iSTPWG team leader. Twitter [@mrchristian99](https://twitter.com/mrchristian99); Acting in an individual capacity as research lead of the Hybrid Publishing Consortium an independent research group for book liberation. https://consortium.io/
   - Raquel Perez de Eulate - Designer, CSS Typesetting. Interpunct Studios - Full Stack Graphic Design https://interpunct.dev/
-  
-## Blogposts 
 
- - ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw) Sept 2020 
- 
+## Blogposts
+
+ - ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw) Sept 2020
+
 ## Meetings
 
   - Open Video Call - 17:00 UTC 17 Sept | There will be an open video call on Jitsi https://meet.jit.si/iSTPWG at 17 Sept. 17:00 UTC if you want to find out more about the working group. [Wiki notes](https://github.com/Independent-SAGE/Technical-Publishing-Working-Group/wiki/Meeting-Minute-17.9.2020)
- 
+
 ## Workflows (base)
 
 ### Report back catalogue workflow
@@ -65,11 +65,11 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 ## Software Stack
 
   ### Only Office
-  
+
   https://github.com/ONLYOFFICE/CommunityServer
 
   ### CodiMD
-  
+
   https://github.com/codimd
 
   ### Fidus Writer
@@ -121,7 +121,7 @@ Currently we're looking for people with skills in the following (>Sept 2020):
   https://github.com/gohugoio/hugo
 
   Apache License 2.0
-  
+
 ## About us: 'indie_SAGE Technical Publishing Working Group #iSTPWG'
 
 A group of Open Science volunteer organised as a working group to assist indie_SAGE in rapid --- multi-format, multi-channel publishing. iSTPWG carries out technical and publishing tasks and is not involved in the authoring of the reports scientific work. If you have an enquiry about the reports scientific contents please contact [Independent SAGE](https://www.independentsage.org/contact-the-independent-sage/).
