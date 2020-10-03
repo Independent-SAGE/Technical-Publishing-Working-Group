@@ -10,6 +10,10 @@ Here you can see a pilot example of converting an existing [PDF report](https://
 
 <a href="https://independent-sage.github.io/Should-Schools-Reopen/#/"><img src="https://independent-sage.github.io/Should-Schools-Reopen/report/cover.png" alt="Should Schools Reopen?" align="right" height="40%" width="40%" ></a>
 
+## Blogposts
+
+See: https://independent-sage.github.io/publishing-working-group-blog/
+
 ## Work group volunteers!
 
 The working group is looking for volunteers and resources to help in the rapid publishing, dissemination and innovations for public engagement of indie_SAGE publications.
@@ -49,10 +53,11 @@ Currently we're looking for people with skills in the following (>Sept 2020):
 
   - Simon Worthington - iSTPWG team leader. Twitter [@mrchristian99](https://twitter.com/mrchristian99); Acting in an individual capacity as research lead of the Hybrid Publishing Consortium an independent research group for book liberation. https://consortium.io/
   - Raquel Perez de Eulate - Designer, CSS Typesetting. Interpunct Studios - Full Stack Graphic Design https://interpunct.dev/
+  
+## Supporters
 
-## Blogposts
-
- - ['Call for Volunteers: Launching indie_SAGE Technical Publishing Working Group'](https://indiesage.herokuapp.com/s/HyqK-TLNw) Sept 2020
+  - Fidus Writer - Real-time academic wordp rocessor open-source web platform https://www.fiduswriter.org/
+  - Vivliostyle - CSS Typesetting open-source framework https://vivliostyle.org/
 
 ## Meetings
 
